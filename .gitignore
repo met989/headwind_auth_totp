@@ -1,0 +1,14 @@
+# Secrets & credentials (NEVER commit!)
+secrets.key
+*.jks
+*.keystore
+
+# Java compiled classes inside web
+web/WEB-INF/classes/
+
+# Temporary / OS / Python files
+*.tmp
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
