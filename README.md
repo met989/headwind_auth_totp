@@ -178,6 +178,14 @@ The plugin exposes lightweight REST endpoints under `/auth-totp/api`:
 
 ---
 
+## ☕ Support the Project
+
+If this plugin has been helpful for your Headwind MDM deployment or you appreciate open-source security tools, consider supporting development by buying me a virtual coffee! ❤️
+
+[![Buy me a coffee on PayPal](https://img.shields.io/badge/Buy_me_a_coffee-PayPal-00457C.svg?style=for-the-badge&logo=paypal)](https://paypal.me/MatteoSacanna)
+
+---
+
 ## 📄 License
 
 Apache License 2.0. See [LICENSE](LICENSE) for details.
