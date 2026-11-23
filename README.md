@@ -29,6 +29,15 @@ Secures the Headwind MDM administrative web console with industry-standard Time-
 
 ---
 
+## 📸 Visual Showcase
+
+<div align="center">
+  <img src="images/login.png" alt="Headwind MDM Two-Factor Authentication Login Screen" width="460">
+  <p><em>Native Headwind MDM Two-Factor Authentication Prompt with 60-Second Code Rotation and Backup Code Recovery</em></p>
+</div>
+
+---
+
 ## 🏛 How It Works
 
 ```text
