@@ -33,15 +33,27 @@ Secures the Headwind MDM administrative web console with industry-standard Time-
 
 <div align="center">
 
-### 1. In-Console 2FA Administration & User Management
-Full-page management console matching Headwind MDM Material theme, with real-time status badges, per-user toggle switch, and 1-click 2FA reset:
+### 1. Seamless Native Integration & User Management
+Directly integrated into the Headwind MDM navigation menu under *Functions*, giving administrators full per-user 2FA lifecycle control:
 <br><br>
-<img src="images/users.png" alt="Headwind MDM Two-Factor Authentication Admin Management Console" width="95%">
+
+<table align="center" width="100%">
+  <tr valign="top">
+    <td align="center" width="28%">
+      <b>Sidebar Navigation Menu</b><br><br>
+      <img src="images/panel.png" alt="Headwind MDM Sidebar Two-Factor Auth Navigation" width="100%">
+    </td>
+    <td align="center" width="72%">
+      <b>2FA User Administration Console</b><br><br>
+      <img src="images/users.png" alt="Headwind MDM Two-Factor Authentication Admin Management Console" width="100%">
+    </td>
+  </tr>
+</table>
 
 <br><br>
 
 ### 2. User Authentication & 2FA Verification Gate
-Native Headwind MDM login theme, 60-second time-step rotation window, and emergency backup recovery:
+Matches the native Headwind MDM login theme, featuring a 60-second time-step rotation window and single-use emergency backup recovery:
 <br><br>
 <img src="images/login.png" alt="Headwind MDM Two-Factor Authentication Login Screen" width="460">
 
