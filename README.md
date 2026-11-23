@@ -32,8 +32,19 @@ Secures the Headwind MDM administrative web console with industry-standard Time-
 ## 📸 Visual Showcase
 
 <div align="center">
-  <img src="images/login.png" alt="Headwind MDM Two-Factor Authentication Login Screen" width="460">
-  <p><em>Native Headwind MDM Two-Factor Authentication Prompt with 60-Second Code Rotation and Backup Code Recovery</em></p>
+
+### 1. In-Console 2FA Administration & User Management
+Full-page management console matching Headwind MDM Material theme, with real-time status badges, per-user toggle switch, and 1-click 2FA reset:
+<br><br>
+<img src="images/users.png" alt="Headwind MDM Two-Factor Authentication Admin Management Console" width="95%">
+
+<br><br>
+
+### 2. User Authentication & 2FA Verification Gate
+Native Headwind MDM login theme, 60-second time-step rotation window, and emergency backup recovery:
+<br><br>
+<img src="images/login.png" alt="Headwind MDM Two-Factor Authentication Login Screen" width="460">
+
 </div>
 
 ---
